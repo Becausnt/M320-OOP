@@ -19,6 +19,7 @@ Ich fand diese Funktion verwirrend, aber nun glaube ich sie verstanden zu haben.
 Gut, aber ich benötige morgen noch eine kurze Repetition um es mir länger zu merken.
 ##### Hilfestellungen
 Präsentationen
+
 https://stackoverflow.com/questions/2644316/what-really-is-the-purpose-of-base-keyword-in-c
 ##### Planung für den nächsten Unterrichtsblock
 1. Weiter am LeftRightCenter arbeiten, Planen und besprechen
