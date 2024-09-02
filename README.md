@@ -22,7 +22,31 @@ Präsentationen
 
 https://stackoverflow.com/questions/2644316/what-really-is-the-purpose-of-base-keyword-in-c
 ##### Planung für den nächsten Unterrichtsblock
-1. Weiter am LeftRightCenter arbeiten, Planen und besprechen
-2. 4209
-3. 4210
-4. 4211
+- [X] Weiter am LeftRightCenter arbeiten, Planen und besprechen
+- [X] 4209
+- [X] 4210
+- [X] 4211
+
+## 26/08/2024
+### Zusammenfassung
+##### Erledigte Arbeiten
+4209, 4210, 4211, 4212
+
+##### Neu Gelerntes
+- Polymorphismus
+- Listen
+- Collections
+
+##### Probleme und Schwierigkeiten
+4212 dauerte ein wenig, sonst in Ordnung
+
+##### Wie sicher beherrsche ich das gelernte
+Ich habe es heute viel angewendet, also ziemlich sicher
+
+##### Hilfestellungen
+Man lese die Präsentationen, ChatGPT um Bugs zu finden
+
+##### Planung für den nächsten Unterrichtsblock
+- [ ] In Person mit anderen Teammitgliedern den Auftrag besprechen
+- [ ] Code Beginnen bei leftRightCenter
+- [ ] 4217
